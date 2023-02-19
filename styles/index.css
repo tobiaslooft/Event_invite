@@ -1,0 +1,50 @@
+.macbook {
+    Width: 1440px;
+    Height: 900px;
+    background: #9DBEBB;
+    display: flex;
+}
+
+.invite-form {
+    background-color: #182625;
+    color: #FEFFFF;
+    Width: 954px;
+    Height: 594px;
+    display: flex;
+    max-width: 100%;
+    margin-left: 308px;
+    margin-top: 153px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
+
+.full_name {
+    display: block;
+    width: 500px;
+}
+
+.all-text {
+    margin-left: 150px;
+    margin-top: 64px;
+    padding-top: 55px;
+}
+
+.rubrik {
+    height: 72px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-bottom: 1px solid #9DBEBB; width: 400px;
+}
+
+.tobias_douglas{
+    width: 500px;
+    height: 594px;
+}

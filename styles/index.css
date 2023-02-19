@@ -1,8 +1,9 @@
 .macbook {
     Width: 1440px;
-    Height: 900px;
+    Height: 500px;
     background: #9DBEBB;
     display: flex;
+    justify-self: center;
 }
 
 .invite-form {
@@ -47,4 +48,24 @@
 .tobias_douglas{
     width: 500px;
     height: 594px;
+    padding-left: 100px;
+}
+
+.animation {
+
+    position: relative;
+    animation-name: example;
+    animation-duration: 6s;
+
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+@keyframes example {
+
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:0px; top:0px;}
+    75%  {left:200px; top:0px;}
+    100% {left:0px; top:0px;}
 }

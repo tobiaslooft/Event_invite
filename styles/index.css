@@ -1,4 +1,4 @@
-.macbook {
+.background {
     Width: 1440px;
     Height: 500px;
     background: #9DBEBB;
@@ -19,12 +19,6 @@
     font-style: normal;
     font-weight: 400;
     text-transform: uppercase;
-
-}
-
-.full_name {
-    display: block;
-    width: 500px;
 }
 
 .all_text {
@@ -48,7 +42,7 @@
 
     position: relative;
     animation-name: example;
-    animation-duration: 6s;
+    animation-duration: 8s;
 
     animation-iteration-count: infinite;
     animation-direction: normal;

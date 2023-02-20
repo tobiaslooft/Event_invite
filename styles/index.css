@@ -27,23 +27,16 @@
     width: 500px;
 }
 
-.all-text {
+.all_text {
     margin-left: 150px;
     margin-top: 64px;
     padding-top: 55px;
 }
 
-.rubrik {
-    height: 72px;
-    font-family: 'Roboto', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    border-bottom: 1px solid #9DBEBB; width: 400px;
+.animate__heartBeat {
+    animation: infinite;
 }
+
 
 .tobias_douglas{
     width: 500px;
